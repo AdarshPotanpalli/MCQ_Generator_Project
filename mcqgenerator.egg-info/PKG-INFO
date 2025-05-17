@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mcqgenerator
+Version: 0.0.1
+Author: Adarsh Potanpalli
+Author-email: p.adarsh.24072001@gmail.com
+Requires-Dist: openai
+Requires-Dist: python-dotenv
+Requires-Dist: streamlit
+Requires-Dist: langchain[openai]
+Requires-Dist: PyPDF2
