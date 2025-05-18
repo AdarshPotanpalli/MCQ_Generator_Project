@@ -6,5 +6,7 @@ Author-email: p.adarsh.24072001@gmail.com
 Requires-Dist: openai
 Requires-Dist: python-dotenv
 Requires-Dist: streamlit
-Requires-Dist: langchain[openai]
+Requires-Dist: langchain
+Requires-Dist: langchain-community
+Requires-Dist: langchain-openai
 Requires-Dist: PyPDF2
